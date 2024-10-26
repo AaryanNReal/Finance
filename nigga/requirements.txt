@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+requests
+transformers
+torch  # Include this only if you're using PyTorch
+pydantic
